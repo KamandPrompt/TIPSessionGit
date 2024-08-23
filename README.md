@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am mahak narwal </h1>
 <br />
 
-- I am a first year Computer Science Undergrad
+- I am a first year data Science Undergrad
 - Interested in anime,python 
 - You can contact me
 g
