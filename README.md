@@ -3,8 +3,6 @@
 
 - I am Dhruv
 
-
-
 <br />
 
 <hr />
