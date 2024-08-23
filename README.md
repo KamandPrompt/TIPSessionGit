@@ -1,9 +1,9 @@
-<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Krishna Dhakal </h1>
+<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am KDS Hacker. </h1>
 <br />
 
 - I am a First year Computer Science Undergrad
 - Interested in DSA, ML, WebDev and Opensource 
-- You can contact me via Email: luvsharma.del@gmail.com
+- You can contact me via Email: kdshacker359@gmail.com
 
 
 <br />
