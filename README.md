@@ -1,10 +1,10 @@
-<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Luv Sharma </h1>
+<h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am mahak narwal </h1>
 <br />
 
-- I am a Third year Computer Science Undergrad
-- Interested in DSA, ML, WebDev and Opensource 
-- You can contact me via Email: luvsharma.del@gmail.com
-
+- I am a first year data Science Undergrad
+- Interested in anime,python 
+- You can contact me
+g
 
 <br />
 
