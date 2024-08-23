@@ -2,7 +2,7 @@
 <br />
 
 - I am a Third year Computer Science Undergrad
-- Interested in DSA, ML, WebDev and Opensource 
+- Interested in BGMI, BloodBorne, Elden Ring 
 - You can contact me via Email: luvsharma.del@gmail.com
 
 
